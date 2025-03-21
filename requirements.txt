@@ -1,0 +1,7 @@
+python.exe -m pip install --upgrade pip
+requests
+fade
+colorama
+datetime
+pycryptodome
+pyinstaller
