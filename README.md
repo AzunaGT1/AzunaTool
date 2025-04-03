@@ -1,6 +1,6 @@
 <img align="center" src="Image/AzunaTool-Banner.png" width="100%"> 
 
-  - Developed in <strong>Python</strong>, by <a href="https://github.com/AzunaGT1">AzunaGT</a><br>
+  - Developed in <strong>Python</strong>, by <a href="https://github.com/AzunaGT1">AzunaGT and supported by </strong>ChatGPT</strong> </a><br>
   - Tool in <strong>English</strong>.<br>
   - Available only on <strong>Windows</strong>.<br>
   - The tool is fully for </strong>Discord</strong>
@@ -60,7 +60,7 @@ Token Boost Server
 
 <p>
   
-<a href="https://github.com/AzunaGT1/AzunaTool/releases/tag/DiscordTool">AzunaTool.zip</a>
+<a href="https://github.com/AzunaGT1/AzunaTool/releases/V1">AzunaTool.zip</a>
 ```
 1 - Download the .zip folder.
 2 - Unzip the folder.
